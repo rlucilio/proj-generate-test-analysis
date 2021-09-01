@@ -6,10 +6,10 @@
 <p  align="center">Projeto tem como base analisar os relatórios de alguns tipos de testes para criação de dashboards</p>
 
 <p  align="center">
-	<img  src="https://img.shields.io/github/languages/count/rlucilio/readme-markdown?style=for-the-badge&logo=ghost&color=7ED957"/>
-	<img  src="https://img.shields.io/github/languages/top/rlucilio/readme-markdown?style=for-the-badge&logo=ghost&color=7ED957"/>
-	<img  src="https://img.shields.io/github/languages/code-size/rlucilio/readme-markdown?style=for-the-badge&logo=ghost&color=7ED957"/>
-	<img  src="https://img.shields.io/github/commit-activity/w/rlucilio/readme-markdown?style=for-the-badge&logo=ghost&color=7ED957"/>
+	<img  src="https://img.shields.io/github/languages/count/rlucilio/generate-test-analysis?style=for-the-badge&logo=ghost&color=7ED957"/>
+	<img  src="https://img.shields.io/github/languages/top/rlucilio/generate-test-analysis?style=for-the-badge&logo=ghost&color=7ED957"/>
+	<img  src="https://img.shields.io/github/languages/code-size/rlucilio/generate-test-analysis?style=for-the-badge&logo=ghost&color=7ED957"/>
+	<img  src="https://img.shields.io/github/commit-activity/w/rlucilio/generate-test-analysis?style=for-the-badge&logo=ghost&color=7ED957"/>
 </p>
 
 <p  align="center"> 
